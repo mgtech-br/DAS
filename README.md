@@ -1,5 +1,5 @@
 # ![SumaristaAI Logo](https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg)
-<img src="https://github.com/matheusmartinsviana/sumaristaai/public/SumaristaAI-logo.webp" alt="CI/CD Status" width="200" height="200" />
+<img src="https://sumaristaai.vercel.appSumaristaAI-logo.webp" alt="CI/CD Status" width="200" height="200" />
 
 ---
 
