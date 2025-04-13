@@ -2,7 +2,7 @@
 <img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="CI/CD Status" width="200" height="200" />
 ![SumaristaAI Logo](https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg)
 
-## ⚡ Gere Sumários Poderosos com seus PDFs
+⚡ Gere Sumários Poderosos com seus PDFs
 
 **Faça um sumário de qualquer PDF em segundos**  
 Com o **SumaristaAI**, criar sumários nunca foi tão fácil.
