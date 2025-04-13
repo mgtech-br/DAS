@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100vh;">
   <img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="SumaristaAI Logo" width="200" height="200" />
   <img src="https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
   <h2>⚡ Gere Sumários Poderosos com seus PDFs</h2>
@@ -27,4 +27,4 @@ Receba um sumário claro, objetivo e direto ao ponto com base no seu conteúdo.
 - Gemini: https://ai.google.dev/gemini-api/docs/pricing?hl=pt-br
 - OpenAI: https://platform.openai.com/docs/concepts
 - Shadcn: https://ui.shadcn.com/docs/components
-- Zod: https://zod.dev/ 
+- Zod: https://zod.dev/
