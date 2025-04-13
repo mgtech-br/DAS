@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column; height: 100vh;">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
   <img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="SumaristaAI Logo" width="200" height="200" />
   <img src="https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
   <h2>⚡ Gere Sumários Poderosos com seus PDFs</h2>
