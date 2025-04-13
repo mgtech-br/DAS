@@ -1,12 +1,11 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-<img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="CI/CD Status" width="200" height="200" />
-![SumaristaAI Logo](https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg)
-
-⚡ Gere Sumários Poderosos com seus PDFs
-
-**Faça um sumário de qualquer PDF em segundos**  
-Com o **SumaristaAI**, criar sumários nunca foi tão fácil.
+  <img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="SumaristaAI Logo" width="200" height="200" />
+  <img src="https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg" alt="CI/CD Status" />
+  <h2>⚡ Gere Sumários Poderosos com seus PDFs</h2>
+  <p><strong>Faça um sumário de qualquer PDF em segundos</strong></p>
+  <p>Com o <strong>SumaristaAI</strong>, criar sumários nunca foi tão fácil.</p>
 </div>
+
 ## 🚀 Como funciona?
 
 O **SumaristaAI** é uma ferramenta que permite criar sumários em apenas 3 passos:
