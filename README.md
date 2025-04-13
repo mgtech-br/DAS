@@ -1,3 +1,4 @@
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
 <img src="https://sumaristaai.vercel.app/SumaristaAI-logo.webp" alt="CI/CD Status" width="200" height="200" />
 ![SumaristaAI Logo](https://github.com/matheusmartinsviana/sumaristaai/actions/workflows/ci.yml/badge.svg)
 
@@ -5,7 +6,7 @@
 
 **Faça um sumário de qualquer PDF em segundos**  
 Com o **SumaristaAI**, criar sumários nunca foi tão fácil.
-
+</div>
 ## 🚀 Como funciona?
 
 O **SumaristaAI** é uma ferramenta que permite criar sumários em apenas 3 passos:
